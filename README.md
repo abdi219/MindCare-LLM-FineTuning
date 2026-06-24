@@ -87,4 +87,4 @@ This project demonstrates a complete pipeline for fine-tuning a causal language 
 
 - Increase dataset size
 - Train for more epochs
-- - Use a larger transformer model
+- - Use a larger transformer modl
